@@ -1,0 +1,85 @@
+
+body {
+   font-size: 1rem;
+   font-family: 'Montserrat', sans-serif;
+   line-height:1.5;
+   color:#DFE5F8;
+}
+
+.build {
+   margin-top:12rem;
+}
+p {
+   margin-top:0;
+   margin-bottom:1rem;
+}
+.mt-5 {
+   margin-top: 5rem !important;
+ }
+.gradient {
+   background: rgb(2,0,36);
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,97,236,1) 0%, rgba(87,11,238,1) 100%, rgba(255,0,176,1) 100%); 
+}
+
+.features ul {
+   list-style:none;
+}
+.features ul li {
+   background: url('../img/check.svg') no-repeat;
+   padding-left:2em;
+   margin-top:1rem;
+   
+}
+.icon {
+   width:6rem;
+   height:6rem;
+   border-radius:50%;
+   justify-content:center;
+   display:inline-flex;
+}
+.bi-award {
+   width:2.5rem;
+   height:5rem;
+   color:#FFFFFF;
+   margin-top:.5rem;
+}
+.icons h2, h1 {
+   color:#212529;
+}
+.icons p, .gallery p {
+   color:#212529;
+}
+.btn-outline-secondary {
+   color: #6c757d;
+   border-color: #6c757d;
+}
+.mt-5 {
+   margin-top:3rem !important;
+}
+.campign {
+   margin-top:5rem;
+}
+.mdb {
+     margin-top:0;
+}
+.gallery {
+   background:#F5F5F5;
+}
+.rounded {
+   border-radius:1rem !important;
+   box-shadow:2px 4px 4px 0 #F5F5F5;
+   margin-bottom:.50rem;
+ }
+ .submit {
+    padding:5px;
+ }
+ .send {
+   padding: 4px 14px;
+ }
+ .link {
+   text-decoration: none;
+   color: aqua;
+ }
+ .link:hover {
+    color:red;
+ }
